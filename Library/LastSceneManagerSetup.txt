@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/MainOctopus.unity
+- path: Assets/Scene/New Scene.unity
   isLoaded: 1
   isActive: 1

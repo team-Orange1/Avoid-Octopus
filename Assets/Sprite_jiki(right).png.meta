@@ -1,0 +1,1474 @@
+fileFormatVersion: 2
+guid: f95118116cb0a4a25b4b7711aaab8989
+timeCreated: 1467357041
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Sprite_jiki(right)_0
+    21300002: Sprite_jiki(right)_1
+    21300004: Sprite_jiki(right)_2
+    21300006: Sprite_jiki(right)_3
+    21300008: Sprite_jiki(right)_4
+    21300010: Sprite_jiki(right)_5
+    21300012: Sprite_jiki(right)_6
+    21300014: Sprite_jiki(right)_7
+    21300016: Sprite_jiki(right)_8
+    21300018: Sprite_jiki(right)_9
+    21300020: Sprite_jiki(right)_10
+    21300022: Sprite_jiki(right)_11
+    21300024: Sprite_jiki(right)_12
+    21300026: Sprite_jiki(right)_13
+    21300028: Sprite_jiki(right)_14
+    21300030: Sprite_jiki(right)_15
+    21300032: Sprite_jiki(right)_16
+    21300034: Sprite_jiki(right)_17
+    21300036: Sprite_jiki(right)_18
+    21300038: Sprite_jiki(right)_19
+    21300040: Sprite_jiki(right)_20
+    21300042: Sprite_jiki(right)_21
+    21300044: Sprite_jiki(right)_22
+    21300046: Sprite_jiki(right)_23
+    21300048: Sprite_jiki(right)_24
+    21300050: Sprite_jiki(right)_25
+    21300052: Sprite_jiki(right)_26
+    21300054: Sprite_jiki(right)_27
+    21300056: Sprite_jiki(right)_28
+    21300058: Sprite_jiki(right)_29
+    21300060: Sprite_jiki(right)_30
+    21300062: Sprite_jiki(right)_31
+    21300064: Sprite_jiki(right)_32
+    21300066: Sprite_jiki(right)_33
+    21300068: Sprite_jiki(right)_34
+    21300070: Sprite_jiki(right)_35
+    21300072: Sprite_jiki(right)_36
+    21300074: Sprite_jiki(right)_37
+    21300076: Sprite_jiki(right)_38
+    21300078: Sprite_jiki(right)_39
+    21300080: Sprite_jiki(right)_40
+    21300082: Sprite_jiki(right)_41
+    21300084: Sprite_jiki(right)_42
+    21300086: Sprite_jiki(right)_43
+    21300088: Sprite_jiki(right)_44
+    21300090: Sprite_jiki(right)_45
+    21300092: Sprite_jiki(right)_46
+    21300094: Sprite_jiki(right)_47
+    21300096: Sprite_jiki(right)_48
+    21300098: Sprite_jiki(right)_49
+    21300100: Sprite_jiki(right)_50
+    21300102: Sprite_jiki(right)_51
+    21300104: Sprite_jiki(right)_52
+    21300106: Sprite_jiki(right)_53
+    21300108: Sprite_jiki(right)_54
+    21300110: Sprite_jiki(right)_55
+    21300112: Sprite_jiki(right)_56
+    21300114: Sprite_jiki(right)_57
+    21300116: Sprite_jiki(right)_58
+    21300118: Sprite_jiki(right)_59
+    21300120: Sprite_jiki(right)_60
+    21300122: Sprite_jiki(right)_61
+    21300124: Sprite_jiki(right)_62
+    21300126: Sprite_jiki(right)_63
+    21300128: Sprite_jiki(right)_64
+    21300130: Sprite_jiki(right)_65
+    21300132: Sprite_jiki(right)_66
+    21300134: Sprite_jiki(right)_67
+    21300136: Sprite_jiki(right)_68
+    21300138: Sprite_jiki(right)_69
+    21300140: Sprite_jiki(right)_70
+    21300142: Sprite_jiki(right)_71
+    21300144: Sprite_jiki(right)_72
+    21300146: Sprite_jiki(right)_73
+    21300148: Sprite_jiki(right)_74
+    21300150: Sprite_jiki(right)_75
+    21300152: Sprite_jiki(right)_76
+    21300154: Sprite_jiki(right)_77
+    21300156: Sprite_jiki(right)_78
+    21300158: Sprite_jiki(right)_79
+    21300160: Sprite_jiki(right)_80
+    21300162: Sprite_jiki(right)_81
+    21300164: Sprite_jiki(right)_82
+    21300166: Sprite_jiki(right)_83
+    21300168: Sprite_jiki(right)_84
+    21300170: Sprite_jiki(right)_85
+    21300172: Sprite_jiki(right)_86
+    21300174: Sprite_jiki(right)_87
+    21300176: Sprite_jiki(right)_88
+    21300178: Sprite_jiki(right)_89
+    21300180: Sprite_jiki(right)_90
+    21300182: Sprite_jiki(right)_91
+    21300184: Sprite_jiki(right)_92
+    21300186: Sprite_jiki(right)_93
+    21300188: Sprite_jiki(right)_94
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Sprite_jiki(right)_0
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 6776
+        width: 100
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_1
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 5238
+        width: 770
+        height: 1531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.366623, y: 112.854065}
+        - {x: -41.366623, y: 89.854065}
+        - {x: -56.366623, y: -46.145935}
+        - {x: -56.366623, y: -112.145935}
+        - {x: -39.366623, y: -112.145935}
+        - {x: -32.366623, y: -106.145935}
+        - {x: -32.366623, y: -103.145935}
+        - {x: 2.633377, y: -112.145935}
+        - {x: 57.633377, y: -112.145935}
+        - {x: 57.633377, y: 87.854065}
+        - {x: 25.633377, y: 112.854065}
+    - name: Sprite_jiki(right)_2
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 6755
+        width: 99
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_3
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 5211
+        width: 753
+        height: 1537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.44928, y: 113.40381}
+        - {x: -55.44928, y: 102.40381}
+        - {x: -55.44928, y: -112.59619}
+        - {x: 55.55072, y: -112.59619}
+        - {x: 55.55072, y: 105.40381}
+        - {x: 39.55072, y: 113.40381}
+    - name: Sprite_jiki(right)_4
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 6728
+        width: 102
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_5
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 6728
+        width: 102
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_6
+      rect:
+        serializedVersion: 2
+        x: 5868
+        y: 6728
+        width: 95
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_7
+      rect:
+        serializedVersion: 2
+        x: 3216
+        y: 5177
+        width: 704
+        height: 1544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.477905, y: 113.92938}
+        - {x: -51.477905, y: 101.92938}
+        - {x: -51.477905, y: -113.07062}
+        - {x: 42.522095, y: -113.07062}
+        - {x: 52.522095, y: -27.070618}
+        - {x: 52.522095, y: 94.92938}
+        - {x: 37.522095, y: 113.92938}
+    - name: Sprite_jiki(right)_8
+      rect:
+        serializedVersion: 2
+        x: 4433
+        y: 5163
+        width: 635
+        height: 1558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.42273, y: 114.8811}
+        - {x: -46.42273, y: 93.8811}
+        - {x: -46.42273, y: 81.8811}
+        - {x: -43.42273, y: 79.8811}
+        - {x: -46.42273, y: 27.881104}
+        - {x: -46.42273, y: -114.1189}
+        - {x: 39.57727, y: -114.1189}
+        - {x: 47.57727, y: -45.118896}
+        - {x: 47.57727, y: 111.8811}
+        - {x: 36.57727, y: 114.8811}
+    - name: Sprite_jiki(right)_9
+      rect:
+        serializedVersion: 2
+        x: 5615
+        y: 5143
+        width: 636
+        height: 1578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.511658, y: 23.454956}
+        - {x: 33.511658, y: 24.454956}
+        - {x: 24.511658, y: 20.454956}
+        - {x: 47.511658, y: 63.454956}
+        - {x: 47.511658, y: 101.454956}
+        - {x: 23.511658, y: 116.454956}
+        - {x: -46.488342, y: 116.454956}
+        - {x: -46.488342, y: -78.545044}
+        - {x: -37.488342, y: -115.545044}
+        - {x: 17.511658, y: -115.545044}
+        - {x: 25.511658, y: -61.545044}
+        - {x: 47.511658, y: -8.545044}
+        - {x: 47.511658, y: 21.454956}
+    - name: Sprite_jiki(right)_10
+      rect:
+        serializedVersion: 2
+        x: 6989
+        y: 6701
+        width: 95
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_11
+      rect:
+        serializedVersion: 2
+        x: 8106
+        y: 6701
+        width: 99
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_12
+      rect:
+        serializedVersion: 2
+        x: 6736
+        y: 5108
+        width: 635
+        height: 1591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.521362, y: 96.33423}
+        - {x: 14.521362, y: 117.33423}
+        - {x: -20.478638, y: 117.33423}
+        - {x: -44.478638, y: 104.33423}
+        - {x: -46.478638, y: 98.33423}
+        - {x: -46.478638, y: 46.33423}
+        - {x: -21.478638, y: -116.66577}
+        - {x: 8.521362, y: -116.66577}
+        - {x: 12.521362, y: -109.66577}
+        - {x: 13.521362, y: -103.66577}
+        - {x: 47.521362, y: -4.6657715}
+    - name: Sprite_jiki(right)_13
+      rect:
+        serializedVersion: 2
+        x: 7857
+        y: 5112
+        width: 634
+        height: 1587
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.531128, y: -35.080566}
+        - {x: 47.531128, y: 14.919434}
+        - {x: 46.531128, y: 17.919434}
+        - {x: 37.531128, y: 24.919434}
+        - {x: 47.531128, y: 57.919434}
+        - {x: 47.531128, y: 96.91943}
+        - {x: 14.531128, y: 117.91943}
+        - {x: -18.468872, y: 117.91943}
+        - {x: -46.468872, y: 99.91943}
+        - {x: -46.468872, y: -24.080566}
+        - {x: -40.468872, y: -115.08057}
+        - {x: -36.468872, y: -116.08057}
+        - {x: 30.531128, y: -116.08057}
+        - {x: 31.531128, y: -113.08057}
+        - {x: 31.531128, y: -103.08057}
+    - name: Sprite_jiki(right)_14
+      rect:
+        serializedVersion: 2
+        x: 9285
+        y: 6680
+        width: 96
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_15
+      rect:
+        serializedVersion: 2
+        x: 8985
+        y: 5081
+        width: 703
+        height: 1592
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.56494, y: 14.383911}
+        - {x: 52.56494, y: 78.38391}
+        - {x: 52.56494, y: 93.38391}
+        - {x: 20.564941, y: 117.38391}
+        - {x: -7.4350586, y: 117.38391}
+        - {x: -24.435059, y: 108.38391}
+        - {x: -45.43506, y: 91.38391}
+        - {x: -46.43506, y: 85.38391}
+        - {x: -38.43506, y: 81.38391}
+        - {x: -51.43506, y: -39.61609}
+        - {x: -51.43506, y: -116.61609}
+        - {x: 52.56494, y: -116.61609}
+        - {x: 52.56494, y: 8.383911}
+        - {x: 45.56494, y: 13.383911}
+    - name: Sprite_jiki(right)_16
+      rect:
+        serializedVersion: 2
+        x: 10441
+        y: 6653
+        width: 101
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_17
+      rect:
+        serializedVersion: 2
+        x: 10058
+        y: 5060
+        width: 854
+        height: 1586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.447998, y: 116.81146}
+        - {x: -48.447998, y: 84.81146}
+        - {x: -62.447998, y: -74.18854}
+        - {x: -62.447998, y: -116.18854}
+        - {x: 63.552002, y: -116.18854}
+        - {x: 63.552002, y: 53.811462}
+        - {x: 58.552002, y: 90.81146}
+        - {x: 22.552002, y: 116.81146}
+    - name: Sprite_jiki(right)_18
+      rect:
+        serializedVersion: 2
+        x: 11596
+        y: 6632
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_19
+      rect:
+        serializedVersion: 2
+        x: 11172
+        y: 5034
+        width: 875
+        height: 1591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.962402, y: 117.50751}
+        - {x: -53.962402, y: 99.50751}
+        - {x: -63.962402, y: -34.492493}
+        - {x: -63.962402, y: -116.49249}
+        - {x: 65.0376, y: -116.49249}
+        - {x: 65.0376, y: 112.50751}
+        - {x: 45.037598, y: 117.50751}
+    - name: Sprite_jiki(right)_20
+      rect:
+        serializedVersion: 2
+        x: 12717
+        y: 6605
+        width: 99
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_21
+      rect:
+        serializedVersion: 2
+        x: 1494
+        y: 6079
+        width: 20
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_22
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 6052
+        width: 20
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_23
+      rect:
+        serializedVersion: 2
+        x: 12265
+        y: 5016
+        width: 902
+        height: 1582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.049316, y: 117.37402}
+        - {x: -50.049316, y: 98.37402}
+        - {x: -66.04932, y: -24.625977}
+        - {x: -66.04932, y: -115.62598}
+        - {x: 66.95068, y: -115.62598}
+        - {x: 66.95068, y: 102.37402}
+        - {x: 31.950684, y: 117.37402}
+    - name: Sprite_jiki(right)_24
+      rect:
+        serializedVersion: 2
+        x: 3923
+        y: 6014
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_25
+      rect:
+        serializedVersion: 2
+        x: 5077
+        y: 6026
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_26
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 5997
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_27
+      rect:
+        serializedVersion: 2
+        x: 6245
+        y: 5970
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_28
+      rect:
+        serializedVersion: 2
+        x: 7359
+        y: 5915
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_29
+      rect:
+        serializedVersion: 2
+        x: 8469
+        y: 5881
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_30
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 5233
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_31
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 5204
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_32
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 5173
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_33
+      rect:
+        serializedVersion: 2
+        x: 4870
+        y: 5156
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_34
+      rect:
+        serializedVersion: 2
+        x: 5952
+        y: 5137
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_35
+      rect:
+        serializedVersion: 2
+        x: 6961
+        y: 5102
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_36
+      rect:
+        serializedVersion: 2
+        x: 7960
+        y: 5096
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_37
+      rect:
+        serializedVersion: 2
+        x: 9012
+        y: 5067
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_38
+      rect:
+        serializedVersion: 2
+        x: 10085
+        y: 5054
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_39
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 4814
+        width: 102
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_40
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 3229
+        width: 916
+        height: 1579
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -67.058365, y: 116.42407}
+        - {x: -67.058365, y: -110.57593}
+        - {x: -51.058365, y: -115.57593}
+        - {x: 67.941635, y: -115.57593}
+        - {x: 67.941635, y: 108.42407}
+        - {x: 40.941635, y: 116.42407}
+    - name: Sprite_jiki(right)_41
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 4787
+        width: 101
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_42
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3209
+        width: 937
+        height: 1571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14.554352, y: 115.997955}
+        - {x: -42.55435, y: 83.997955}
+        - {x: -68.55435, y: -36.002045}
+        - {x: -68.55435, y: -115.002045}
+        - {x: 69.44565, y: -115.002045}
+        - {x: 69.44565, y: 105.997955}
+        - {x: 36.44565, y: 115.997955}
+    - name: Sprite_jiki(right)_43
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 4767
+        width: 102
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_44
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 3182
+        width: 950
+        height: 1578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.435333, y: 116.54767}
+        - {x: -69.43533, y: 85.54767}
+        - {x: -69.43533, y: -115.45233}
+        - {x: 70.56467, y: -115.45233}
+        - {x: 70.56467, y: 105.54767}
+        - {x: 42.564667, y: 116.54767}
+    - name: Sprite_jiki(right)_45
+      rect:
+        serializedVersion: 2
+        x: 5451
+        y: 4739
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_46
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 3161
+        width: 957
+        height: 1571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.98822, y: 115.97522}
+        - {x: -42.98822, y: 93.97522}
+        - {x: -69.98822, y: -75.02478}
+        - {x: -69.98822, y: -110.02478}
+        - {x: -43.98822, y: -115.02478}
+        - {x: 71.01178, y: -115.02478}
+        - {x: 71.01178, y: 113.97522}
+        - {x: 63.01178, y: 115.97522}
+    - name: Sprite_jiki(right)_47
+      rect:
+        serializedVersion: 2
+        x: 6723
+        y: 4713
+        width: 102
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_48
+      rect:
+        serializedVersion: 2
+        x: 6182
+        y: 3134
+        width: 963
+        height: 1577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70.53247, y: -53.475067}
+        - {x: -70.53247, y: -100.47507}
+        - {x: -65.53247, y: -99.47507}
+        - {x: -30.53247, y: -115.47507}
+        - {x: 71.46753, y: -115.47507}
+        - {x: 71.46753, y: 86.52493}
+        - {x: 63.46753, y: 116.52493}
+        - {x: -2.5324707, y: 116.52493}
+        - {x: -30.53247, y: 91.52493}
+    - name: Sprite_jiki(right)_49
+      rect:
+        serializedVersion: 2
+        x: 8105
+        y: 4691
+        width: 100
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_50
+      rect:
+        serializedVersion: 2
+        x: 7566
+        y: 3113
+        width: 961
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.044067, y: 115.952515}
+        - {x: -70.04407, y: 31.952515}
+        - {x: -70.04407, y: -107.047485}
+        - {x: -48.044067, y: -115.047485}
+        - {x: 71.95593, y: -115.047485}
+        - {x: 71.95593, y: 108.952515}
+        - {x: 63.955933, y: 115.952515}
+    - name: Sprite_jiki(right)_51
+      rect:
+        serializedVersion: 2
+        x: 9354
+        y: 4664
+        width: 88
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_52
+      rect:
+        serializedVersion: 2
+        x: 8822
+        y: 3086
+        width: 955
+        height: 1571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69.21704, y: 88.00223}
+        - {x: 35.21704, y: 116.00223}
+        - {x: 4.217041, y: 116.00223}
+        - {x: -31.782959, y: 92.00223}
+        - {x: -69.78296, y: -14.997772}
+        - {x: -69.78296, y: -114.99777}
+        - {x: -61.78296, y: -111.99777}
+        - {x: -11.782959, y: -114.99777}
+        - {x: 71.21704, y: -114.99777}
+        - {x: 71.21704, y: -38.997772}
+        - {x: 64.21704, y: -19.997772}
+    - name: Sprite_jiki(right)_53
+      rect:
+        serializedVersion: 2
+        x: 10478
+        y: 4644
+        width: 99
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_54
+      rect:
+        serializedVersion: 2
+        x: 9969
+        y: 3065
+        width: 936
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62.53064, y: 115.92978}
+        - {x: -23.46936, y: 115.92978}
+        - {x: -44.46936, y: 96.92978}
+        - {x: -68.46936, y: -79.07022}
+        - {x: -68.46936, y: -104.07022}
+        - {x: -67.46936, y: -106.07022}
+        - {x: -24.46936, y: -112.07022}
+        - {x: 4.5306396, y: -115.07022}
+        - {x: 69.53064, y: -115.07022}
+        - {x: 69.53064, y: -66.07022}
+        - {x: 64.53064, y: -51.07022}
+        - {x: 69.53064, y: -44.07022}
+        - {x: 69.53064, y: 97.92978}
+    - name: Sprite_jiki(right)_55
+      rect:
+        serializedVersion: 2
+        x: 11780
+        y: 4616
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_56
+      rect:
+        serializedVersion: 2
+        x: 11295
+        y: 3038
+        width: 922
+        height: 1571
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.466797, y: 115.97952}
+        - {x: -54.466797, y: 98.97952}
+        - {x: -67.4668, y: 58.979523}
+        - {x: -67.4668, y: -115.02048}
+        - {x: 68.5332, y: -115.02048}
+        - {x: 68.5332, y: 92.97952}
+        - {x: 43.533203, y: 115.97952}
+    - name: Sprite_jiki(right)_57
+      rect:
+        serializedVersion: 2
+        x: 13147
+        y: 4596
+        width: 102
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_58
+      rect:
+        serializedVersion: 2
+        x: 12696
+        y: 3004
+        width: 902
+        height: 1585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.991211, y: 117.0051}
+        - {x: -45.99121, y: 99.0051}
+        - {x: -65.99121, y: -86.9949}
+        - {x: -65.99121, y: -111.9949}
+        - {x: -64.99121, y: -115.9949}
+        - {x: 67.00879, y: -115.9949}
+        - {x: 67.00879, y: 100.0051}
+        - {x: 46.00879, y: 117.0051}
+    - name: Sprite_jiki(right)_59
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 2785
+        width: 95
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_60
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 1193
+        width: 875
+        height: 1585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.9759254, y: 117.04379}
+        - {x: -41.975925, y: 92.04379}
+        - {x: -58.975925, y: -4.9562073}
+        - {x: -63.975925, y: -57.956207}
+        - {x: -63.975925, y: -115.95621}
+        - {x: 65.02408, y: -115.95621}
+        - {x: 65.02408, y: 70.04379}
+        - {x: 59.024075, y: 90.04379}
+        - {x: 21.024075, y: 117.04379}
+    - name: Sprite_jiki(right)_61
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 2758
+        width: 102
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_62
+      rect:
+        serializedVersion: 2
+        x: 3305
+        y: 2758
+        width: 95
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_63
+      rect:
+        serializedVersion: 2
+        x: 1651
+        y: 1165
+        width: 853
+        height: 1591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.55223, y: 117.447205}
+        - {x: -13.447769, y: 117.447205}
+        - {x: -38.44777, y: 102.447205}
+        - {x: -50.44777, y: 83.447205}
+        - {x: -62.44777, y: -26.552795}
+        - {x: -62.44777, y: -116.552795}
+        - {x: 63.55223, y: -116.552795}
+        - {x: 63.55223, y: 41.447205}
+        - {x: 57.55223, y: 100.447205}
+    - name: Sprite_jiki(right)_64
+      rect:
+        serializedVersion: 2
+        x: 3004
+        y: 1165
+        width: 704
+        height: 1591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.494904, y: 117.447205}
+        - {x: -51.494904, y: 96.447205}
+        - {x: -51.494904, y: -116.552795}
+        - {x: 52.505096, y: -116.552795}
+        - {x: 52.505096, y: 97.447205}
+        - {x: 31.505096, y: 117.447205}
+    - name: Sprite_jiki(right)_65
+      rect:
+        serializedVersion: 2
+        x: 4501
+        y: 2737
+        width: 102
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_66
+      rect:
+        serializedVersion: 2
+        x: 5677
+        y: 2734
+        width: 102
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_67
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 1145
+        width: 636
+        height: 1585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.489502, y: 117.02107}
+        - {x: -46.489502, y: -115.97893}
+        - {x: 47.510498, y: -115.97893}
+        - {x: 47.510498, y: 107.02107}
+        - {x: 28.510498, y: 117.02107}
+    - name: Sprite_jiki(right)_68
+      rect:
+        serializedVersion: 2
+        x: 5425
+        y: 1145
+        width: 638
+        height: 1585
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.78662, y: 117.02107}
+        - {x: -46.78662, y: -28.978928}
+        - {x: -25.786621, y: -115.97893}
+        - {x: 43.21338, y: -115.97893}
+        - {x: 48.21338, y: -89.97893}
+        - {x: 48.21338, y: 117.02107}
+    - name: Sprite_jiki(right)_69
+      rect:
+        serializedVersion: 2
+        x: 6859
+        y: 2710
+        width: 95
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_70
+      rect:
+        serializedVersion: 2
+        x: 6606
+        y: 1131
+        width: 636
+        height: 1572
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.498474, y: -93.02721}
+        - {x: -5.498474, y: -110.02721}
+        - {x: -2.4984741, y: -115.02721}
+        - {x: 8.501526, y: -115.02721}
+        - {x: 36.501526, y: -64.02721}
+        - {x: 47.501526, y: -16.027206}
+        - {x: 47.501526, y: 104.97279}
+        - {x: 19.501526, y: 115.97279}
+        - {x: -29.498474, y: 115.97279}
+        - {x: -46.498474, y: 101.97279}
+        - {x: -46.498474, y: -17.027206}
+        - {x: -36.498474, y: -115.02721}
+        - {x: -9.498474, y: -115.02721}
+        - {x: -5.498474, y: -110.02721}
+        - {x: -6.498474, y: -105.02721}
+        - {x: -12.498474, y: -99.02721}
+    - name: Sprite_jiki(right)_71
+      rect:
+        serializedVersion: 2
+        x: 8035
+        y: 2689
+        width: 95
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_72
+      rect:
+        serializedVersion: 2
+        x: 7782
+        y: 1124
+        width: 635
+        height: 1558
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.441895, y: 114.94864}
+        - {x: -46.441895, y: 91.94864}
+        - {x: -46.441895, y: -114.05136}
+        - {x: 47.558105, y: -114.05136}
+        - {x: 47.558105, y: 103.94864}
+        - {x: 23.558105, y: 114.94864}
+    - name: Sprite_jiki(right)_73
+      rect:
+        serializedVersion: 2
+        x: 9155
+        y: 2662
+        width: 96
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_74
+      rect:
+        serializedVersion: 2
+        x: 8828
+        y: 1111
+        width: 710
+        height: 1544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.09485, y: 98.04666}
+        - {x: 20.094849, y: 114.04666}
+        - {x: -14.905151, y: 114.04666}
+        - {x: -49.90515, y: 92.04666}
+        - {x: -51.90515, y: 8.046661}
+        - {x: -51.90515, y: -112.95334}
+        - {x: 40.09485, y: -112.95334}
+        - {x: 42.09485, y: -79.95334}
+        - {x: 39.09485, y: -47.95334}
+        - {x: 53.09485, y: -4.9533386}
+    - name: Sprite_jiki(right)_75
+      rect:
+        serializedVersion: 2
+        x: 10406
+        y: 2641
+        width: 102
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_76
+      rect:
+        serializedVersion: 2
+        x: 10038
+        y: 1097
+        width: 751
+        height: 1537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.874146, y: 113.49837}
+        - {x: -45.874146, y: 79.49837}
+        - {x: -54.874146, y: -32.501633}
+        - {x: -54.874146, y: -112.50163}
+        - {x: 56.125854, y: -112.50163}
+        - {x: 56.125854, y: 101.49837}
+        - {x: 35.125854, y: 113.49837}
+    - name: Sprite_jiki(right)_77
+      rect:
+        serializedVersion: 2
+        x: 11596
+        y: 2614
+        width: 102
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_78
+      rect:
+        serializedVersion: 2
+        x: 6049
+        y: 1948
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_79
+      rect:
+        serializedVersion: 2
+        x: 7237
+        y: 1953
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_80
+      rect:
+        serializedVersion: 2
+        x: 8414
+        y: 1955
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_81
+      rect:
+        serializedVersion: 2
+        x: 9538
+        y: 1951
+        width: 21
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_82
+      rect:
+        serializedVersion: 2
+        x: 10793
+        y: 1937
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_83
+      rect:
+        serializedVersion: 2
+        x: 11213
+        y: 1076
+        width: 765
+        height: 1531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.036133, y: 29.925919}
+        - {x: 57.036133, y: 72.92592}
+        - {x: 57.036133, y: 92.92592}
+        - {x: 39.036133, y: 112.92592}
+        - {x: -34.963867, y: 112.92592}
+        - {x: -46.963867, y: 109.92592}
+        - {x: -55.963867, y: -18.074081}
+        - {x: -55.963867, y: -104.07408}
+        - {x: -46.963867, y: -112.07408}
+        - {x: 57.036133, y: -112.07408}
+        - {x: 57.036133, y: 30.925919}
+        - {x: 54.036133, y: 32.92592}
+    - name: Sprite_jiki(right)_84
+      rect:
+        serializedVersion: 2
+        x: 11985
+        y: 1917
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_85
+      rect:
+        serializedVersion: 2
+        x: 4867
+        y: 1914
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_86
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1158
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_87
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 1146
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_88
+      rect:
+        serializedVersion: 2
+        x: 4358
+        y: 1131
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_89
+      rect:
+        serializedVersion: 2
+        x: 5656
+        y: 1138
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_90
+      rect:
+        serializedVersion: 2
+        x: 6948
+        y: 1124
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_91
+      rect:
+        serializedVersion: 2
+        x: 8214
+        y: 1119
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_92
+      rect:
+        serializedVersion: 2
+        x: 9410
+        y: 1105
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_93
+      rect:
+        serializedVersion: 2
+        x: 10714
+        y: 1091
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Sprite_jiki(right)_94
+      rect:
+        serializedVersion: 2
+        x: 11919
+        y: 1071
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

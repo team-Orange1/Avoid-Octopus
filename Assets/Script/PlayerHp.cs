@@ -1,0 +1,53 @@
+﻿using UnityEngine;
+using System.Collections;
+using UnityEngine.UI;
+
+public class PlayerHp : MonoBehaviour {
+
+	public static int healthPoint;
+    int healthPointMax = 1000;
+	int damage = 100;
+	int displayHealthPoint;
+	public Text healthText;
+	public Slider gaugeSlider;
+
+	void Start () {
+		healthPoint = healthPointMax;
+		displayHealthPoint = healthPoint;
+	}
+	// Update is called once per frame
+	void Update () {
+
+		//現在の体力と表示用体力が異なっていたら現在の体力になるまで加減算する
+		if (displayHealthPoint != healthPoint)
+			displayHealthPoint = (int)Mathf.Lerp (displayHealthPoint, healthPoint, 0.1F);
+
+
+		//体力をUI Textに表示する
+		healthText.text = string.Format("{0:000} / {1:000}", displayHealthPoint, healthPointMax);
+
+		//残り体力の割合によって文字の色を帰る
+		float percentageHealthPoint = (float)displayHealthPoint / healthPointMax;
+
+		if (percentageHealthPoint > 0.5F) {
+			healthText.color = Color.white;
+		} else if (percentageHealthPoint > 0.3F) {
+			healthText.color = Color.yellow;
+		} else {
+			healthText.color = Color.red;
+		}
+
+
+		//ゲージの長さを体力の割合に応じて伸縮させる
+		gaugeSlider.transform.localScale = new Vector3(percentageHealthPoint, 1, 1);
+	}
+	private void OnCollisionEnter(Collision collider){
+
+		//弾に当たるとダメージ
+		if (collider.gameObject.tag == "bullet") {
+
+			healthPoint -= damage;
+			healthPoint = Mathf.Clamp (healthPoint, 0, healthPointMax);
+		}
+	}
+}

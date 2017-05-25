@@ -81,12 +81,13 @@
      <Compile Include="Assets\Script\BOSSInstantiate.cs" />
      <Compile Include="Assets\Script\BOSS_shotbullet.cs" />
      <Compile Include="Assets\Script\BattleManager.cs" />
-     <Compile Include="Assets\Script\CameraControl.cs" />
      <Compile Include="Assets\Script\ClearScene.cs" />
      <Compile Include="Assets\Script\Enemy.cs" />
      <Compile Include="Assets\Script\EnemyDestroy.cs" />
      <Compile Include="Assets\Script\EnemyInstantiate.cs" />
      <Compile Include="Assets\Script\GameOverScene.cs" />
+     <Compile Include="Assets\Script\New Folder\CameraControl.cs" />
+     <Compile Include="Assets\Script\New Folder\newPlayer.cs" />
      <Compile Include="Assets\Script\PlayerHp.cs" />
      <Compile Include="Assets\Script\Score.cs" />
      <Compile Include="Assets\Script\TimeScript.cs" />

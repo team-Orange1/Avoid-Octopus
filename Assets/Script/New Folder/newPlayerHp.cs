@@ -41,13 +41,21 @@ public class newPlayerHp : MonoBehaviour {
 		//ゲージの長さを体力の割合に応じて伸縮させる
 		gaugeSlider.transform.localScale = new Vector3(percentageHealthPoint, 1, 1);
 	}
-	private void OnCollisionEnter(Collision collider){
-
-		//弾に当たるとダメージ
-		if (collider.gameObject.tag == "Enemy") {
-
+	void OnCollisionEnter2D(Collision2D other)
+	{
+		if (other.gameObject.CompareTag("Enemy"))
+		{
 			healthPoint -= damage;
 			healthPoint = Mathf.Clamp (healthPoint, 0, healthPointMax);
 		}
+//	private void OnCollisionEnter(Collision collider){
+//
+//		//弾に当たるとダメージ
+//		if (collider.gameObject.tag == "Enemy") {
+//
+//			healthPoint -= damage;
+//			healthPoint = Mathf.Clamp (healthPoint, 0, healthPointMax);
+//		}
+//	}
 	}
 }

@@ -86,7 +86,6 @@
      <Compile Include="Assets\Script\EnemyDestroy.cs" />
      <Compile Include="Assets\Script\EnemyInstantiate.cs" />
      <Compile Include="Assets\Script\GameOverScene.cs" />
-     <Compile Include="Assets\Script\New Folder\Camera.cs" />
      <Compile Include="Assets\Script\New Folder\CameraControl.cs" />
      <Compile Include="Assets\Script\New Folder\block.cs" />
      <Compile Include="Assets\Script\New Folder\newPlayer.cs" />

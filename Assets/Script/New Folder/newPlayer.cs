@@ -47,6 +47,7 @@ public class newPlayer : MonoBehaviour {
 	//当たり判定検出
 	void Start() {
 		rb2d = GetComponent<Rigidbody2D>();
+	//playerの回転を制御
 		GetComponent<Rigidbody2D> ().freezeRotation = true;
 	}
 

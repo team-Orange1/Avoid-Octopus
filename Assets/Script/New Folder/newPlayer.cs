@@ -40,27 +40,35 @@ public class newPlayer : MonoBehaviour {
 
 	// 変数の定義と初期化
 	public float flap = 1000f;
-	public float scroll = 5f;
+	public float scroll = 35f;
 	Rigidbody2D rb2d;
+	bool jump = false;
 
-	// Updateの前に1回だけ呼ばれるメソッド
+	//当たり判定検出
 	void Start() {
-		// Rigidbody2Dをキャッシュする
 		rb2d = GetComponent<Rigidbody2D>();
 		GetComponent<Rigidbody2D> ().freezeRotation = true;
 	}
 
-	// シーン中にフレーム毎に呼ばれるメソッド
 	void Update() {
 		// xの正方向にscrollスピードで移動
-		rb2d.velocity = new Vector2(scroll, rb2d.velocity.y);
+		rb2d.velocity = new Vector2 (scroll, rb2d.velocity.y);
 
 		// スペースキーが押されたら
-		if (Input.GetKeyDown(KeyCode.Space)) {
-			// 落下速度をリセット
-			rb2d.velocity = Vector2.zero;
+		if (Input.GetKeyDown (KeyCode.Space) && !jump) {
+			// 落下速度をリセット（いるか分からない？）
+			//rb2d.velocity = Vector2.zero;
 			// (0,1)方向に瞬間的に力を加えて跳ねさせる
-			rb2d.AddForce(Vector2.up * flap);//, ForceMode2D.Impulse);
+			rb2d.AddForce (Vector2.up * flap);
+			jump = true;
+		}
+	}
+	//タグのGroundにあたっているときだけジャンプ出来る
+	void OnCollisionEnter2D(Collision2D other)
+	{
+		if (other.gameObject.CompareTag("Ground"))
+		{
+			jump = false;
 		}
 	}
 }

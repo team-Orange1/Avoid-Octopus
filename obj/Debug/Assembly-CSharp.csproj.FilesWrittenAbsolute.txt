@@ -160,3 +160,7 @@
 /Users/hw15a008/Desktop/MainOctopus 11.04.01/Temp/bin/Debug/Mono.Cecil.Mdb.dll
 /Users/hw15a008/Desktop/MainOctopus 11.04.01/Temp/bin/Debug/Assembly-CSharp.dll.mdb
 /Users/hw15a008/Desktop/MainOctopus 11.04.01/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/hw15a030/Avoid-Octopus/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/hw15a030/Avoid-Octopus/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/hw15a030/Avoid-Octopus/obj/Debug/Assembly-CSharp.dll
+/Users/hw15a030/Avoid-Octopus/obj/Debug/Assembly-CSharp.dll.mdb

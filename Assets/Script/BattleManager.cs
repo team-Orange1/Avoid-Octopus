@@ -15,7 +15,7 @@ public class BattleManager : MonoBehaviour {
 			SceneManager.LoadScene ("GameOver");
 		}
 		else if (TimeScript.time <= 0) {
-			SceneManager.LoadScene ("Clear");
+			SceneManager.LoadScene ("Octopus2D");
 		}
 	}
 

@@ -13,7 +13,7 @@ public class TitleScene : MonoBehaviour {
 	void Update () {
 		//ボタンを押したら遷移
 		if (Input.anyKeyDown) {
-			SceneManager.LoadScene ("MainOctopus");
+			SceneManager.LoadScene ("story chapter1");
 		}
 	}
 }

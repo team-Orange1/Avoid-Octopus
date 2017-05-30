@@ -64,6 +64,60 @@
      <Compile Include="Assets\Detonator Explosion Framework\System\DetonatorSpray.cs" />
      <Compile Include="Assets\Detonator Explosion Framework\TestScene\DetonatorTest.cs" />
      <Compile Include="Assets\Detonator Explosion Framework\TestScene\TouchToMouse.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\AnimComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\AudioComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\BgComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\ButtonComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\CharaComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\ClickableComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\Components.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\Doc.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\EventComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\ImageComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\Live2dComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\MenuComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\MessageComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\SaveComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\SdComponentScript.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\SystemComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Components\TextComponent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\AudioManager.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\Enum.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\EventManager.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\GameManager.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\GameSetting.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\GameView.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\ImageManager.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\LogManager.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\NovelSingleton.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\SaveManager.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\ScenarioManager.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\StatusManager.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Core\Validate.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Libs\ColorConverter.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Libs\GuiScaler.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Libs\MiniJSON.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Libs\RPNParser.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Libs\iTween.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\ObjectSet\AbstractObject.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\ObjectSet\ButtonObject.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\ObjectSet\ClickableObject.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\ObjectSet\ImageObject.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\ObjectSet\Live2dObject.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\ObjectSet\SdObject.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\ObjectSet\TextObject.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\SceneInit.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\System\FileManager.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\System\Parser.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Unity\AnimationEvent.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Unity\Backlog.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Unity\CameraUtility.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Unity\CanvasLog.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Unity\CloseButton.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Unity\JokerSetting.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Unity\MessageArea.cs" />
+     <Compile Include="Assets\JOKER\Scripts\Novel\Unity\MessageFrame.cs" />
+     <Compile Include="Assets\JOKER_GAME\Plugins\PluginComponent.cs" />
      <Compile Include="Assets\KinectView\Scripts\BodySourceManager.cs" />
      <Compile Include="Assets\KinectView\Scripts\BodySourceView.cs" />
      <Compile Include="Assets\KinectView\Scripts\ColorSourceManager.cs" />
@@ -111,11 +165,13 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendOneOne.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderRGB.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\wide\libs\utils.txt" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasic.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableWeightedBlurDof34.shader" />
      <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\EvalModel\right.p.txt" />
      <None Include="Assets\Plugins\x86\NuiDatabase\Expression\NuiExpressionModelManifest.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ShowAlphaChannel.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\tall\libs\utils.txt" />
      <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\WholeHeadModel\FullHeadMaskVertexCorrespondence.txt" />
      <None Include="Assets\Standard Assets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
      <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\ViewModel\front.p.txt" />
@@ -128,10 +184,12 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\NFAA.shader" />
      <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\ViewModel\right.p.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\TiltShiftHdrLensBlur.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\wide\libs\save.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\VignetteShader.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfFieldScatter.shader" />
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularSmooth.shader" />
      <None Include="Assets\Standard Assets\Effects\Projectors\Guidelines.txt" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\wide\title.txt" />
      <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\EvalModel\Front.p.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlur.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBloom.shader" />
@@ -155,11 +213,13 @@
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku_ds.shader" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonBasicOutline.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_eye_blend.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\tall\libs\save.txt" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAlpha.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\DepthOfField34.shader" />
      <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\MouthModel\lopen.p.txt" />
      <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\ViewModel\right.p.txt" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hair_ds.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\tall\title.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\MobileBlur.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SSAOShader.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\ParticleSystemsGuidelines.txt" />
@@ -168,6 +228,8 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ColorCorrectionCurvesSimple.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseEffectShaderYUV.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_akarami_blend.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\tall\system.txt" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\wide\scene1.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\CreaseApply.shader" />
      <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\SkintoneModel\skintone_shape_classifier.txt" />
      <None Include="Assets\Standard Assets\Environment\Water (Basic)\Shaders\FXWaterBasic.shader" />
@@ -176,6 +238,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\ChromaticAberrationShader.shader" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\GlobalFog.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\wide\system.txt" />
      <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\SkintoneModel\skintone_appearance_classifier.txt" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAddSoft.shader" />
      <None Include="Assets\Standard Assets\Effects\ToonShading\Shaders\ToonLitOutline.shader" />
@@ -197,9 +260,11 @@
      <None Include="Assets\Standard Assets\Water\Water\Shaders\FXWaterPro.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\DLAA.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrainDX11.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\wide\libs\menu.txt" />
      <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_F.txt" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BrightPassFilter2.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\first.txt" />
      <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_HLP.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_DepthOfField\SeparableBlur.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\MotionBlurClear.shader" />
@@ -210,6 +275,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\VortexEffect.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\Contrast Stretch\Adaptation.shader" />
      <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_hada_blend.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\tall\libs\menu.txt" />
      <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\ViewModel\left.p.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\NoiseAndGrain.shader" />
      <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\SkintoneModel\skintone_shape_classifier.txt" />
@@ -230,6 +296,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\Blend.shader" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\BlendModesOverlay.shader" />
      <None Include="Assets\Free Fantasy Track\ReadMe.txt" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\scenario\tall\scene1.txt" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\WaterInclude.cginc" />
      <None Include="Assets\Plugins\x86\NuiDatabase\HDFaceTracker\AAMModel\Map2D3D_HRP.txt" />
      <None Include="Assets\Standard Assets\Environment\Water\Water4\Shaders\FXWater4Advanced.shader" />
@@ -238,6 +305,7 @@
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\SimpleClear.shader" />
      <None Include="Assets\Standard Assets\ParticleSystems\Shaders\PriorityParticleAdd.shader" />
      <None Include="Assets\Standard Assets\Effects\TessellationShaders\Shaders\BumpedSpecularDisplacement.shader" />
+     <None Include="Assets\JOKER_GAME\Resources\novel\data\config\config.txt" />
      <None Include="Assets\Standard Assets\Effects\ImageEffects\Shaders\_Antialiasing\FXAA3Console.shader" />
      <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\SkintoneModel\skintone_appearance_classifier.txt" />
      <None Include="Assets\Plugins\x86_64\NuiDatabase\HDFaceTracker\WholeHeadModel\FullHeadMaskVertexCorrespondence.txt" />
@@ -267,6 +335,12 @@
  </Reference>
  <Reference Include="UnityEngine.VR">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll</HintPath>
+ </Reference>
+ <Reference Include="LitJson">
+ <HintPath>/Users/hw15a186/GitHub/Avoid-Octopus/Assets/Plugins/JOKER/LitJson.dll</HintPath>
+ </Reference>
+ <Reference Include="NCalc">
+ <HintPath>/Users/hw15a186/GitHub/Avoid-Octopus/Assets/Plugins/JOKER/NCalc.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>

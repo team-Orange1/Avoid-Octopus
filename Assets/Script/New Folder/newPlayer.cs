@@ -64,12 +64,11 @@ public class newPlayer : MonoBehaviour {
 			jump = true;
 		}
 	}
+
 	//タグのGroundにあたっているときだけジャンプ出来る
-	void OnCollisionEnter2D(Collision2D other)
-	{
-		if (other.gameObject.CompareTag("Ground"))
-		{
-			jump = false;
+	void OnCollisionEnter2D(Collision2D other){
+		if (other.gameObject.CompareTag("Ground")){
+				jump = false;
 		}
 	}
 }

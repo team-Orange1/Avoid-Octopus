@@ -11,6 +11,7 @@ public class BattleManager : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		//シーン遷移
 		if (PlayerHp.healthPoint <= 0) {
 			SceneManager.LoadScene ("GameOver");
 		}

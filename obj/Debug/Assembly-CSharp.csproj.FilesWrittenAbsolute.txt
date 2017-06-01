@@ -216,3 +216,5 @@
 /Users/hw15a008/Desktop/Avoid-Octopus/Temp/bin/Debug/Mono.Cecil.Mdb.dll
 /Users/hw15a008/Desktop/Avoid-Octopus/Temp/bin/Debug/Assembly-CSharp.dll.mdb
 /Users/hw15a008/Desktop/Avoid-Octopus/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/hw15a186/GitHub/Avoid-Octopus/Temp/bin/Debug/LitJson.dll
+/Users/hw15a186/GitHub/Avoid-Octopus/Temp/bin/Debug/NCalc.dll

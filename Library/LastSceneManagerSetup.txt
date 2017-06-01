@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scene/Story Chapter2.unity
+- path: Assets/Scene/Octopus2D.unity
   isLoaded: 1
   isActive: 1

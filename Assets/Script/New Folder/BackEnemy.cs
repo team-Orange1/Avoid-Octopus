@@ -5,7 +5,7 @@ using UnityEngine;
 public class BackEnemy : MonoBehaviour {
 
 	Rigidbody2D rb2d;
-	public float scroll = 35f;
+	public float scroll = 30f;
 
 	// Use this for initialization
 	void Start () {

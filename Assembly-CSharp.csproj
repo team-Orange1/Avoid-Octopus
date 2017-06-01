@@ -91,6 +91,7 @@
      <Compile Include="Assets\Script\New Folder\BackEnemy.cs" />
      <Compile Include="Assets\Script\New Folder\CameraControl.cs" />
      <Compile Include="Assets\Script\New Folder\NewEnemyDestroy.cs" />
+     <Compile Include="Assets\Script\New Folder\Scene.cs" />
      <Compile Include="Assets\Script\New Folder\newPlayer.cs" />
      <Compile Include="Assets\Script\New Folder\newPlayerHp.cs" />
      <Compile Include="Assets\Script\PlayerHp.cs" />

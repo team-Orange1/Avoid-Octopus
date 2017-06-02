@@ -10,10 +10,17 @@ public class newPlayerHp : MonoBehaviour {
 	int displayHealthPoint;
 	public Text healthText;
 	public Slider gaugeSlider;
+	//ボイス用
+	private AudioSource audioSource;
+	public AudioClip sound;
 
 	void Start () {
 		healthPoint = healthPointMax;
 		displayHealthPoint = healthPoint;
+	//ボイス用
+		audioSource = gameObject.AddComponent<AudioSource>();
+		audioSource.clip = sound;
+		audioSource.loop = false;
 	}
 	// Update is called once per frame
 	void Update () {
@@ -45,6 +52,7 @@ public class newPlayerHp : MonoBehaviour {
 	{
 		if (other.gameObject.CompareTag("Enemy"))
 		{
+			audioSource.Play();
 			healthPoint -= damage;
 			healthPoint = Mathf.Clamp (healthPoint, 0, healthPointMax);
 		}
